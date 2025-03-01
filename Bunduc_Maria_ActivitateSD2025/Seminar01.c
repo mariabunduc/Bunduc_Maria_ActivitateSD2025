@@ -79,6 +79,6 @@ int main() {
 	afisare(masina);
 
 	dezalocare(&masina);
-
+	
 	return 0;
 }
