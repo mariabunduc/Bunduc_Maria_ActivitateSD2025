@@ -48,6 +48,9 @@
     <ClCompile Include="Seminar12.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Seminar13.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="..\..\..\..\..\..\..\masini_arbore.txt">

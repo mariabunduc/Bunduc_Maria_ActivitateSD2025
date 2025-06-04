@@ -160,6 +160,7 @@
     <ClCompile Include="Seminar12.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="Seminar13.c" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="..\..\..\..\..\..\..\masini_arbore.txt" />
